@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-my-lib',
   template: `
     <p>
-      ovo je dobro!
+      novo dobro
     </p>
   `,
   styles: []
